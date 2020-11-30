@@ -1,2 +1,2 @@
-# configurations-mac
-repo for basic confiuration files for mac
+# Dotfiles
+Basic configuration for Unix
